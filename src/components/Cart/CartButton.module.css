@@ -1,0 +1,12 @@
+.button {
+  margin: 10px;
+}
+
+.button button {
+  padding: 5px 25px;
+  font-style: normal;
+  font-family: Ubuntu;
+  font-weight: 400;
+  border: 0.5px solid black;
+  border-radius: 15px;
+}

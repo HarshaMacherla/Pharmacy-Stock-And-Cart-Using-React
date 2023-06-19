@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+}
+
+.form {
+  flex: 1;
+}
